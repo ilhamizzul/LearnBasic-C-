@@ -2,7 +2,8 @@
 
 var labs = new List<ILab>
 {
-    new LearningBasic.Labs.Lab01_Fundamentals.Lab01()
+    new LearningBasic.Labs.Lab01_Fundamentals.Lab01(),
+    new LearningBasic.Labs.Lab02_Oop.Lab02()
 };
 
 while (true)
